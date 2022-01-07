@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+process.yml
+testchain/var
+yarn.lock
+.idea/
+/wallet
+!/wallet/jsonpassword.txt
+!/wallet/testwallet.json
+/.env
